@@ -1,4 +1,4 @@
- fouHi! 👋
+puts "hey wassup hello, you my trap queen"
 
 You've opened the IDE Sandbox. 🎉
 
